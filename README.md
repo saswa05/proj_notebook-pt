@@ -1,2 +1,2 @@
-# proj_notebook-pt
-Introdução a linguagem de programação Pyton, utilizando jupiter n otebook
+# proj_notebook-py
+Introdução a linguagem de programação Python, utilizando Jupyter Notebook.
